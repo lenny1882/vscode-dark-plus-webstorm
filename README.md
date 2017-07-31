@@ -1,6 +1,16 @@
 # vscode-dark-plus-webstorm
 VSCode Dark+ colourings for WebStorm (theme coming as soon as I find the time - until then, the colourings pair alright with Darcula).
 
+## Use
+
+### Colourings
+
+* Download the .icls file
+* Open WebStorm, and go to __Settings__
+* In the left-hand menu: Editor > Color Scheme
+* Click the cog next to the _Scheme_ dropdown and __Import Scheme__
+* Select the .icls file, Apply
+
 ## Disclaimer
 This is a project I care about for as long as I am being forced to use WebStorm. I do not like WebStorm, and will not maintain either the colourings or theme when I can go back to an IDE of my choosing.
 
