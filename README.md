@@ -11,6 +11,23 @@ VSCode Dark+ colourings for WebStorm (theme coming as soon as I find the time - 
 * Click the cog next to the _Scheme_ dropdown and __Import Scheme__
 * Select the .icls file, Apply
 
+## TODO and Not Done
+### Colourings
+__TODO__
+* Diff & Merge
+* VCS
+
+__NOT DONE__ _(and unlikely to get done, as I'm not installing new languages for VSCode that I won't use)_
+* Cucumber
+* Dart
+* EJS
+* HAML
+* JSP
+* RegExp
+* Stylus
+* XPath
+* Spy-is
+
 ## Disclaimer
 This is a project I care about for as long as I am being forced to use WebStorm. I do not like WebStorm, and will not maintain either the colourings or theme when I can go back to an IDE of my choosing.
 
