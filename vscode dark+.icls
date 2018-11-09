@@ -1,15 +1,11 @@
 <scheme name="vscode dark+" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2017-07-31T22:13:23</property>
+    <property name="created">2018-11-09T12:29:26</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-08-08T23:26:06</property>
+    <property name="ideVersion">2018.2.5.0.0</property>
+    <property name="modified">2018-11-09T12:29:41</property>
+    <property name="originalScheme">vscode dark+</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
