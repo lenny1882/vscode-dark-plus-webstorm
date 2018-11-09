@@ -32,3 +32,7 @@ __NOT DONE__
 The vast majority of work has been done with WebStorm open next to VSCode and its DevTools, selecting elements in VSCode and copying colour values where WebStorm does not match. As such, neither colourings nor theme are an exact replica (and never will be - VSCode and WebStorm handle a lot of things differently. VSCode, for example, offers far more granular syntax highlighting).
 
 This project is not actively maintained, as WebStorm is not my IDE of choice. Pull requests are welcome.
+
+## Contributors and Thanks
+### Thanks
+* Zhan Ishzhanov ([janat08](https://github.com/janat08)) - for flagging font differences across platforms
