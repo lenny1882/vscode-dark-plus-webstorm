@@ -17,16 +17,16 @@ Last version checked: WebStorm 2019.1
 
 A selection of languages:
 
-[![css](/../screenshots/screenshots/css_800.jpg)](/../screenshots/screenshots/css.png?raw=true)
-[![dart](/../screenshots/screenshots/dart_800.jpg)](/../screenshots/screenshots/dart.png?raw=true)
-[![html](/../screenshots/screenshots/html_800.jpg)](/../screenshots/screenshots/html.png?raw=true)
-[![javascript](/../screenshots/screenshots/javascript_800.jpg)](/../screenshots/screenshots/javascript.png?raw=true)
-[![json](/../screenshots/screenshots/json_800.jpg)](/../screenshots/screenshots/json.png?raw=true)
-[![typescript](/../screenshots/screenshots/typescript_800.jpg)](/../screenshots/screenshots/typescript.png?raw=true)
+[![css](/../screenshots/screenshots/css_320.jpg)](/../screenshots/screenshots/css.png?raw=true)
+[![dart](/../screenshots/screenshots/dart_320.jpg)](/../screenshots/screenshots/dart.png?raw=true)
+[![html](/../screenshots/screenshots/html_320.jpg)](/../screenshots/screenshots/html.png?raw=true)
+[![javascript](/../screenshots/screenshots/javascript_320.jpg)](/../screenshots/screenshots/javascript.png?raw=true)
+[![json](/../screenshots/screenshots/json_320.jpg)](/../screenshots/screenshots/json.png?raw=true)
+[![typescript](/../screenshots/screenshots/typescript_320.jpg)](/../screenshots/screenshots/typescript.png?raw=true)
 
 #### User Screenshots
 
-[![TheOnlyReadOnly](/../screenshots/screenshots/TheOnlyReadOnly_800.jpg)](/../screenshots/screenshots/TheOnlyReadOnly.png?raw=true)
+[![TheOnlyReadOnly](/../screenshots/screenshots/TheOnlyReadOnly_320.jpg)](/../screenshots/screenshots/TheOnlyReadOnly.png?raw=true)
 
 
 ## TODO and Not Done
@@ -36,6 +36,7 @@ __TODO__
 * VCS
 
 __NOT DONE__
+
 The following have not had their WebStorm colours changed, as there is no VSCode equivalent, or they require extensions for syntax highlighting (which may be opinionated).
 
 * Cucumber
