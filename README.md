@@ -13,6 +13,29 @@ Last version checked: WebStorm 2019.1
 * Click the cog next to the _Scheme_ dropdown and __Import Scheme__
 * Select the .icls file, Apply
 
+### Screenshots
+
+A selection of languages:
+
+|CSS|Dart|
+|---|---|
+|[![css](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/css_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/css.png?raw=true)|[![dart](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/dart_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/dart.png?raw=true)|
+
+|HTML|JavaScript|
+|---|---|
+|[![html](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/html_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/html.png?raw=true)|[![javascript](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/javascript_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/javascript.png?raw=true)
+
+|JSON|TypeScript|
+|---|---|
+|[![json](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/json_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/json.png?raw=true)|[![typescript](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/typescript_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/typescript.png?raw=true)
+
+#### User Screenshots
+
+|[TheOnlyReadOnly](https://github.com/TheOnlyReadOnly)|
+|---|
+|[![TheOnlyReadOnly](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/TheOnlyReadOnly_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/TheOnlyReadOnly.png?raw=true)|
+
+
 ## TODO and Not Done
 ### Colourings
 __TODO__
@@ -20,6 +43,7 @@ __TODO__
 * VCS
 
 __NOT DONE__
+
 The following have not had their WebStorm colours changed, as there is no VSCode equivalent, or they require extensions for syntax highlighting (which may be opinionated).
 
 * Cucumber
@@ -42,3 +66,4 @@ This project is not actively maintained, as WebStorm is not my IDE of choice. Pu
 ## Contributors and Thanks
 ### Thanks
 * Zhan Ishzhanov ([janat08](https://github.com/janat08)) - for flagging font differences across platforms
+* Marco Nava ([TheOnlyReadOnly](https://github.com/TheOnlyReadOnly)) - user screenshot
