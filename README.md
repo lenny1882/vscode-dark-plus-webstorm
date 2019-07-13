@@ -13,6 +13,22 @@ Last version checked: WebStorm 2019.1
 * Click the cog next to the _Scheme_ dropdown and __Import Scheme__
 * Select the .icls file, Apply
 
+### Screenshots
+
+A selection of languages:
+
+[![css](/../screenshots/screenshots/css_800.jpg)](/../screenshots/screenshots/css.png?raw=true)
+[![dart](/../screenshots/screenshots/dart_800.jpg)](/../screenshots/screenshots/dart.png?raw=true)
+[![html](/../screenshots/screenshots/html_800.jpg)](/../screenshots/screenshots/html.png?raw=true)
+[![javascript](/../screenshots/screenshots/javascript_800.jpg)](/../screenshots/screenshots/javascript.png?raw=true)
+[![json](/../screenshots/screenshots/json_800.jpg)](/../screenshots/screenshots/json.png?raw=true)
+[![typescript](/../screenshots/screenshots/typescript_800.jpg)](/../screenshots/screenshots/typescript.png?raw=true)
+
+#### User Screenshots
+
+[![TheOnlyReadOnly](/../screenshots/screenshots/TheOnlyReadOnly_800.jpg)](/../screenshots/screenshots/TheOnlyReadOnly.png?raw=true)
+
+
 ## TODO and Not Done
 ### Colourings
 __TODO__
@@ -42,3 +58,4 @@ This project is not actively maintained, as WebStorm is not my IDE of choice. Pu
 ## Contributors and Thanks
 ### Thanks
 * Zhan Ishzhanov ([janat08](https://github.com/janat08)) - for flagging font differences across platforms
+* Marco Nava ([TheOnlyReadOnly](https://github.com/TheOnlyReadOnly)) - user screenshot
