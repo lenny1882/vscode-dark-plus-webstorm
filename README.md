@@ -1,14 +1,14 @@
 # vscode-dark-plus-webstorm
-VSCode Dark+ colourings for WebStorm.
+VSCode Dark+ colourings for WebStorm, and a separate file with additional schemes for PHPStorm.
 
-Last version checked: WebStorm 2019.1
+Last version checked: WebStorm 2019.1, PHPStorm 2019.1
 
 ## Use
 
 ### Colourings
 
 * Download the .icls file
-* Open WebStorm, and go to __Settings__
+* Open IDE, and go to __Settings__
 * In the left-hand menu: Editor > Color Scheme
 * Click the cog next to the _Scheme_ dropdown and __Import Scheme__
 * Select the .icls file, Apply
@@ -44,7 +44,7 @@ __TODO__
 
 __NOT DONE__
 
-The following have not had their WebStorm colours changed, as there is no VSCode equivalent, or they require extensions for syntax highlighting (which may be opinionated).
+The following have not had their colours changed, as there is no VSCode equivalent, or they require extensions for syntax highlighting (which may be opinionated).
 
 * Cucumber
 * Diagrams
@@ -57,6 +57,14 @@ The following have not had their WebStorm colours changed, as there is no VSCode
 * Stylus
 * XPath
 * Spy-js
+
+Additional PHPStorm schemes that are not changed in the PHPStorm file:
+
+* Blade
+* Database
+* gettext PO
+* Smarty
+* Table Diff
 
 ## Disclaimer
 The vast majority of work has been done with WebStorm open next to VSCode and its DevTools, selecting elements in VSCode and copying colour values where WebStorm does not match. As such, neither colourings nor theme are an exact replica (and never will be - VSCode and WebStorm handle a lot of things differently. VSCode, for example, offers far more granular syntax highlighting).
