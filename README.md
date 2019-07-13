@@ -19,21 +19,21 @@ A selection of languages:
 
 |CSS|Dart|
 |---|---|
-|[![css](/../screenshots/screenshots/css_320.jpg)](/../screenshots/screenshots/css.png?raw=true)|[![dart](/../screenshots/screenshots/dart_320.jpg)](/../screenshots/screenshots/dart.png?raw=true)|
+|[![css](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/css_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/css.png?raw=true)|[![dart](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/dart_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/dart.png?raw=true)|
 
 |HTML|JavaScript|
 |---|---|
-|[![html](/../screenshots/screenshots/html_320.jpg)](/../screenshots/screenshots/html.png?raw=true)|[![javascript](/../screenshots/screenshots/javascript_320.jpg)](/../screenshots/screenshots/javascript.png?raw=true)
+|[![html](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/html_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/html.png?raw=true)|[![javascript](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/javascript_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/javascript.png?raw=true)
 
 |JSON|TypeScript|
 |---|---|
-|[![json](/../screenshots/screenshots/json_320.jpg)](/../screenshots/screenshots/json.png?raw=true)|[![typescript](/../screenshots/screenshots/typescript_320.jpg)](/../screenshots/screenshots/typescript.png?raw=true)
+|[![json](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/json_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/json.png?raw=true)|[![typescript](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/typescript_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/typescript.png?raw=true)
 
 #### User Screenshots
 
 |[TheOnlyReadOnly](https://github.com/TheOnlyReadOnly)|
 |---|
-|[![TheOnlyReadOnly](/../screenshots/screenshots/TheOnlyReadOnly_320.jpg)](/../screenshots/screenshots/TheOnlyReadOnly.png?raw=true)|
+|[![TheOnlyReadOnly](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/TheOnlyReadOnly_320.jpg)](https://raw.githubusercontent.com/lenny1882/vscode-dark-plus-webstorm/screenshots/screenshots/TheOnlyReadOnly.png?raw=true)|
 
 
 ## TODO and Not Done
