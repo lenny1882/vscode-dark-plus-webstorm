@@ -1,9 +1,9 @@
 <scheme name="vscode dark+" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2018-11-09T12:29:26</property>
+    <property name="created">2019-07-13T14:31:29</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-11-09T12:29:41</property>
+    <property name="ideVersion">2019.1.3.0.0</property>
+    <property name="modified">2019-07-13T14:31:43</property>
     <property name="originalScheme">vscode dark+</property>
   </metaInfo>
   <colors>
@@ -325,6 +325,141 @@
         <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
+    <option name="DART_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="DART_DYNAMIC_PARAMETER_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DART_ENUM_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="DART_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_IMPORT_PREFIX">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_INSTANCE_FIELD_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DART_INSTANCE_FIELD_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DART_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_LABEL">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_LIBRARY_NAME">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_LOCAL_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_LOCAL_FUNCTION_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_LOCAL_VARIABLE_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_LOCAL_VARIABLE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_PARAMETER_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DART_PARAMETER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DART_STATIC_FIELD_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DART_STATIC_SETTER_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+      </value>
+    </option>
+    <option name="DART_SYMBOL_LITERAL">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_TOP_LEVEL_GETTER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_TOP_LEVEL_SETTER_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_TOP_LEVEL_VARIABLE_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="d4d4d4" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="DART_TYPE_NAME_DYNAMIC">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_UNRESOLVED_INSTANCE_MEMBER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -419,7 +554,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c586c0" />
+        <option name="FOREGROUND" value="569cd6" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -442,6 +577,11 @@
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="d4d4d4" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">

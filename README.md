@@ -19,7 +19,6 @@ __TODO__
 
 __NOT DONE__
 * Cucumber
-* Dart
 * EJS
 * HAML
 * JSP
