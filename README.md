@@ -17,16 +17,23 @@ Last version checked: WebStorm 2019.1
 
 A selection of languages:
 
-[![css](/../screenshots/screenshots/css_320.jpg)](/../screenshots/screenshots/css.png?raw=true)
-[![dart](/../screenshots/screenshots/dart_320.jpg)](/../screenshots/screenshots/dart.png?raw=true)
-[![html](/../screenshots/screenshots/html_320.jpg)](/../screenshots/screenshots/html.png?raw=true)
-[![javascript](/../screenshots/screenshots/javascript_320.jpg)](/../screenshots/screenshots/javascript.png?raw=true)
-[![json](/../screenshots/screenshots/json_320.jpg)](/../screenshots/screenshots/json.png?raw=true)
-[![typescript](/../screenshots/screenshots/typescript_320.jpg)](/../screenshots/screenshots/typescript.png?raw=true)
+|CSS|Dart|
+|---|---|
+|[![css](/../screenshots/screenshots/css_320.jpg)](/../screenshots/screenshots/css.png?raw=true)|[![dart](/../screenshots/screenshots/dart_320.jpg)](/../screenshots/screenshots/dart.png?raw=true)|
+
+|HTML|JavaScript|
+|---|---|
+|[![html](/../screenshots/screenshots/html_320.jpg)](/../screenshots/screenshots/html.png?raw=true)|[![javascript](/../screenshots/screenshots/javascript_320.jpg)](/../screenshots/screenshots/javascript.png?raw=true)
+
+|JSON|TypeScript|
+|---|---|
+|[![json](/../screenshots/screenshots/json_320.jpg)](/../screenshots/screenshots/json.png?raw=true)|[![typescript](/../screenshots/screenshots/typescript_320.jpg)](/../screenshots/screenshots/typescript.png?raw=true)
 
 #### User Screenshots
 
-[![TheOnlyReadOnly](/../screenshots/screenshots/TheOnlyReadOnly_320.jpg)](/../screenshots/screenshots/TheOnlyReadOnly.png?raw=true)
+|[TheOnlyReadOnly](https://github.com/TheOnlyReadOnly)|
+|---|
+|[![TheOnlyReadOnly](/../screenshots/screenshots/TheOnlyReadOnly_320.jpg)](/../screenshots/screenshots/TheOnlyReadOnly.png?raw=true)|
 
 
 ## TODO and Not Done
